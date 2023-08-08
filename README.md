@@ -5,7 +5,6 @@ from discord.ext import commands
 
 bot = commands.Bot(command_prefix='!')
 
-# Dictionary to store user profiles
 user_profiles = {}
 
 @bot.command(name='create_profile')
