@@ -11,4 +11,4 @@ The user_profiles dictionary is used to store user profiles. Each profile is ass
 The create_profile command allows users to create their profile by providing their name, age, and interests.
 The show_profile command displays the profile of a specified user or the author of the command if no user is mentioned.
 
-# I am not responsible for the work ability of the botупкурукрурр
+# I am not responsible for the work ability of the botупкурукрурркккккрур
